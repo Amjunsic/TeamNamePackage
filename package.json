@@ -1,0 +1,21 @@
+{
+  "name": "com.teamname.utils",
+  "version": "2.0.0",
+  "displayName": "TeamName Utils Pakage",
+  "description": "\uae40\uc7ac\uc740\uc774 \uac1c\ubc1c\ud55c \uac1c\uca4c\ub294 \uc720\ud2f8\uc131 \ud328\ud0a4\uc9c0",
+  "unity": "2022.3",
+  "keywords": [
+    "awesome",
+    "feature",
+    "utility"
+  ],
+  "category": "Unity",
+  "author": {
+    "name": "\uae40\uc7ac\uc740",
+    "email": "rlawodmsajtw0@gamil.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amjunsic/TeamName.git"
+  }
+}
